@@ -64,7 +64,7 @@ frontend/
 ### 1. Clone and configure
 
 ```bash
-git clone https://github.com/<your-username>/taskflow.git
+git clone https://github.com/BhargaviGoud1235/taskflow.git
 cd taskflow
 ```
 
